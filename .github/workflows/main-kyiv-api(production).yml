@@ -3,6 +3,7 @@ name: Build and deploy Node.js app to Azure Web App - kyiv-api
 on:
   push:
     branches:
+      - pipelines
       - main
       - pipelines
   workflow_dispatch:
