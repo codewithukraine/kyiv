@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "title": "Fleeing from Ukraine",
+      "description": "Fleeing to Hungary from Ukraine",
+      "keywords": ["fleeing", "hungary", "protection"],
+      "summary": "Contact Info: ukrainecrisis@helsinki.hu, facebook.com/helsinkibizottsag",
+      "url": "https://helsinki.hu/en/information-for-people-fleeing-from-ukraine/",
+      "location": "Hungary"
+    },
+    {
+      "title": "Hungarian Association for Migrants",
+      "description": "What to expect for people fleeing Ukraine for Hungary can expect based on current regulations",
+      "keywords": ["fleeing", "hungary", "protection", "temporary", "legal advice"],
+      "summary": "",
+      "url": "https://menedek.hu/en/news/what-will-happen-people-fleeing-ukraine-last-update-09032022",
+      "location": "Hungary"
+    },
+    {
+      "title": "Hungarian Trasporation Assistance",
+      "description": "Facebook group about transportation and accommodation sharing in Budapest, and from the borders to Budapest",
+      "keywords": ["transportation", "hungary", "refugee"],
+      "summary": "",
+      "url": "https://www.facebook.com/groups/994143548136400/",
+      "location": "Hungary"
+    },
+    {
+      "title": "Information to Seek Refuge in Poland",
+      "description": "Polish government website page dedicated for Ukrainian citizens seeking refuge. It has a list of checkpoints and information in Ukrainian language.",
+      "keywords": ["fleeing", "migrate", "government", "checkpoints", "general advice"],
+      "summary": "Contact for More Info: +48 47 721 75 75",
+      "url": "https://www.gov.pl/web/udsc/ukraina---ua",
+      "location": "Poland"
+    },
+    {
+      "title": "Evacuation from Ukraine",
+      "description": "An article providing information on how to evacuate from Ukraine",
+      "keywords": ["fleeing", "migrate", "government", "evacuate", "general advice"],
+      "summary": "Contact for More Info: +48 47 721 75 75",
+      "url": "https://ocalenie.org.pl/zalatwto/ewakuacja-z-ukrainy-o-czym-pamietac-uciekajac-przed-wojna",
+      "location": "Poland"
+    },
+    {
+      "title": "Cities to Seek Help Once in Poland",
+      "description": "A list of cities to seek refuge to once evacuated from Ukraine",
+      "keywords": ["refuge", "short term shelter", "food", "help", "government"],
+      "summary": "Visit these cities once you have evacuated to Poland: Dorohusk, Dołhobyczów, Zosin, Hrebenne, Korczowa, Medyka, Budomierz, Krościenko",
+      "url": "https://eurodesk.eu/2022/03/04/information-for-ukraine/",
+      "location": "Poland"
+    },
+    {
+      "title": "Legal Stay in Poland",
+      "description": "How to legally stay in Poland after evacuating from Ukraine",
+      "keywords": ["refuge", "long term shelter", "legal advice", "help", "government"],
+      "summary": "Citizens of Ukraine who left their homeland as a result of Russian aggression may legally stay for 18 months",
+      "url": "https://www.gov.pl/web/ua/Lehalne-perebuvannya-v-Polshchi",
+      "location": "Poland"
+    },
+    {
+      "title": "Legal Aid for Refugees in Poland",
+      "description": "Halina Nieć Legal Aid Center is providing legal aid to the following groups: asylum seekers / refugees, stateless persons, victims of human trafficking.",
+      "keywords": ["refuge", "legal advice"],
+      "summary": "For Urgent Matters, Contact: +48 693 390 502",
+      "url": "https://www.pomocprawna.org/pomoc-prawna",
+      "location": "Poland"
+    }
+  ]
+}
