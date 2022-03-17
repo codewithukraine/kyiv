@@ -1,12 +1,10 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
-
 name: Build and deploy Node.js app to Azure Web App - kyiv-api
 
 on:
   push:
     branches:
       - main
+      - pipelines
   workflow_dispatch:
 
 jobs:
@@ -52,5 +50,5 @@ jobs:
         with:
           app-name: 'kyiv-api'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_1234 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f767a17036684f52b6459d4eebcd960a }}
           package: .
