@@ -236,5 +236,93 @@
     "summary": "For Urgent Matters, Contact: +48 693 390 502",
     "url": "https://www.pomocprawna.org/pomoc-prawna",
     "location": "Poland"
+  },
+  {
+    "title": "Help for Children",
+    "description": "Evacuation logistics and transport of children in Ukraine",
+    "keywords": ["children", "general advice"],
+    "summary": "Contact: ewakuacjadzieci@mrips.gov.pl , tel. +48 532 402 575. seatedladzieci@mrips.gov.pl , tel. +48 666 383 956.",
+    "url": "https://pomagamukrainie.gov.pl/",
+    "location": "Poland"
+  },
+  {
+    "title": "Information for Ukranians in Rzeszów",
+    "description": "Helpline addressed to residents of Rzeszów, especially those from Ukraine and citizens of Ukraine.",
+    "keywords": ["general advice"],
+    "summary": "Contact: 1 77 88 99 00, Hotline is open from 8:00 to 20:00 also on weekends",
+    "url": "https://www.erzeszow.pl/pl/2327-rzeszow-dla-ukrainy/49855-informacje-dla-obywateli-ukrainy-szukajacych-pomocy-infolinia.html",
+    "location": "Rzeszów, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Lublin",
+    "description": "Help in Lublin for Ukrainian citizens",
+    "keywords": ["general advice", "legal advice"],
+    "summary": "Contact: +48 533 39 15 69",
+    "url": "https://lublin.eu/lublin/wspolpraca-miedzynarodowa/biezace-wydarzenia-miedzynarodowe/pomoc-w-lublinie-dla-obywateli-ukrainy,1868,1198,1.html",
+    "location": "Lublin, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Łódź",
+    "description": "Help in Łódź for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "",
+    "url": "https://uml.lodz.pl/pomoc-dla-ukrainy/faq/",
+    "location": "Łódź, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Poznań",
+    "description": "Help in Poznań for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "Contact: 61 646 33 44",
+    "url": "https://www.poznan.pl/mim/wortals/ua/ua/news,9740/-,177406.html?from=main_page",
+    "location": "Poznań, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Warsaw",
+    "description": "Help in Warsaw for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "Contact: 505 700 701 from Monday to Sunday from 08:00 to 20:00.",
+    "url": "https://warszawa19115.pl/-/oferty-wsparcia-dla-obywateli-ukrainy",
+    "location": "Warsaw, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Wrocław",
+    "description": "Help in Wrocław for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "Contact: +48 47 721 75 75.",
+    "url": "https://www.wroclaw.pl/dla-mieszkanca/wojna-w-ukrainie-wroclaw-pomaga-potrzebujacym-jak-pomagac-madrze",
+    "location": "Wrocław, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Katowice",
+    "description": "Help in Katowice for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "Contact:  +48 539 696 888 or ukraina@katowice.eu",
+    "url": "https://www.katowice.eu/dla-mieszka%C5%84ca/aktualnosci?ItemID=5151&ListID=%7b75169DCB-89EF-46CD-A876-165C1E838909%7d",
+    "location": "Katowice, Poland"
+  },
+  {
+    "title": "Information for Ukranians in Bydgoszcz",
+    "description": "Help in Bydgoszcz for Ukrainian citizens",
+    "keywords": ["general advice"],
+    "summary": "Visit Bydgoszcz Trade Fair and Exhibition Center for a collection of essential needs",
+    "url": "https://www.bydgoszcz.pl/aktualnosci/tresc/bydgoszcz-pomaga-ukrainie/",
+    "location": "Bydgoszcz, Poland"
+  },
+  {
+    "title": "Crossing into Romania",
+    "description": "Useful information for people entering Romania from Ukraine",
+    "keywords": ["general advice", "transportation"],
+    "summary": "",
+    "url": "https://romania.iom.int/news/useful-information-people-entering-romania-ukraine",
+    "location": "Romania"
+  },
+  {
+    "title": "Information on Entering Romania from Ukraine",
+    "description": "Useful information for people entering Romania from Ukraine",
+    "keywords": ["general advice"],
+    "summary": "",
+    "url": "https://dopomoha.ro/uk",
+    "location": "Romania"
   }
 ]
