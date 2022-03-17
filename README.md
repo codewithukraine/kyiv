@@ -15,3 +15,12 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - summary: string
 - url: list of strings
 - location: string (just country/city name for now)
+
+## keywords
+- food
+- transportation
+- short term shelter
+- long term shelter
+- medical advice
+- legal advice
+- general advice
