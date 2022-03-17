@@ -186,7 +186,7 @@
   {
     "title": "Information to Seek Refuge in Poland",
     "description": "Polish government website page dedicated for Ukrainian citizens seeking refuge. It has a list of checkpoints and information in Ukrainian language.",
-    "keywords": ["fleeing", "migrate", "government", "checkpoints", "general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact for More Info: +48 47 721 75 75",
     "url": "https://www.gov.pl/web/udsc/ukraina---ua",
     "location": "Poland"
@@ -194,7 +194,7 @@
   {
     "title": "Evacuation from Ukraine",
     "description": "An article providing information on how to evacuate from Ukraine",
-    "keywords": ["fleeing", "migrate", "government", "evacuate", "general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact for More Info: +48 47 721 75 75",
     "url": "https://ocalenie.org.pl/zalatwto/ewakuacja-z-ukrainy-o-czym-pamietac-uciekajac-przed-wojna",
     "location": "Poland"
@@ -202,7 +202,7 @@
   {
     "title": "Cities to Seek Help Once in Poland",
     "description": "A list of cities to seek refuge to once evacuated from Ukraine",
-    "keywords": ["refuge", "short term shelter", "food", "help", "government"],
+    "keywords": ["short-term-shelter", "food"],
     "summary": "Visit these cities once you have evacuated to Poland: Dorohusk, Dołhobyczów, Zosin, Hrebenne, Korczowa, Medyka, Budomierz, Krościenko",
     "url": "https://eurodesk.eu/2022/03/04/information-for-ukraine/",
     "location": "Poland"
@@ -210,7 +210,7 @@
   {
     "title": "Legal Stay in Poland",
     "description": "How to legally stay in Poland after evacuating from Ukraine",
-    "keywords": ["refuge", "long term shelter", "legal advice", "help", "government"],
+    "keywords": ["long-term-shelter", "legal-advice"],
     "summary": "Citizens of Ukraine who left their homeland as a result of Russian aggression may legally stay for 18 months",
     "url": "https://www.gov.pl/web/ua/Lehalne-perebuvannya-v-Polshchi",
     "location": "Poland"
@@ -218,7 +218,7 @@
   {
     "title": "Legal Aid for Refugees in Poland",
     "description": "Halina Nieć Legal Aid Center is providing legal aid to the following groups: asylum seekers / refugees, stateless persons, victims of human trafficking.",
-    "keywords": ["refuge", "legal advice"],
+    "keywords": ["legal-advice"],
     "summary": "For Urgent Matters, Contact: +48 693 390 502",
     "url": "https://www.pomocprawna.org/pomoc-prawna",
     "location": "Poland"
@@ -226,7 +226,7 @@
   {
     "title": "Help for Children",
     "description": "Evacuation logistics and transport of children in Ukraine",
-    "keywords": ["children", "general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact: ewakuacjadzieci@mrips.gov.pl , tel. +48 532 402 575. seatedladzieci@mrips.gov.pl , tel. +48 666 383 956.",
     "url": "https://pomagamukrainie.gov.pl/",
     "location": "Poland"
@@ -234,7 +234,7 @@
   {
     "title": "Information for Ukranians in Rzeszów",
     "description": "Helpline addressed to residents of Rzeszów, especially those from Ukraine and citizens of Ukraine.",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact: 1 77 88 99 00, Hotline is open from 8:00 to 20:00 also on weekends",
     "url": "https://www.erzeszow.pl/pl/2327-rzeszow-dla-ukrainy/49855-informacje-dla-obywateli-ukrainy-szukajacych-pomocy-infolinia.html",
     "location": "Rzeszów, Poland"
@@ -242,7 +242,7 @@
   {
     "title": "Information for Ukranians in Lublin",
     "description": "Help in Lublin for Ukrainian citizens",
-    "keywords": ["general advice", "legal advice"],
+    "keywords": ["general-advice", "legal-advice"],
     "summary": "Contact: +48 533 39 15 69",
     "url": "https://lublin.eu/lublin/wspolpraca-miedzynarodowa/biezace-wydarzenia-miedzynarodowe/pomoc-w-lublinie-dla-obywateli-ukrainy,1868,1198,1.html",
     "location": "Lublin, Poland"
@@ -250,7 +250,7 @@
   {
     "title": "Information for Ukranians in Łódź",
     "description": "Help in Łódź for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "",
     "url": "https://uml.lodz.pl/pomoc-dla-ukrainy/faq/",
     "location": "Łódź, Poland"
@@ -258,7 +258,7 @@
   {
     "title": "Information for Ukranians in Poznań",
     "description": "Help in Poznań for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact: 61 646 33 44",
     "url": "https://www.poznan.pl/mim/wortals/ua/ua/news,9740/-,177406.html?from=main_page",
     "location": "Poznań, Poland"
@@ -266,7 +266,7 @@
   {
     "title": "Information for Ukranians in Warsaw",
     "description": "Help in Warsaw for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact: 505 700 701 from Monday to Sunday from 08:00 to 20:00.",
     "url": "https://warszawa19115.pl/-/oferty-wsparcia-dla-obywateli-ukrainy",
     "location": "Warsaw, Poland"
@@ -274,7 +274,7 @@
   {
     "title": "Information for Ukranians in Wrocław",
     "description": "Help in Wrocław for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact: +48 47 721 75 75.",
     "url": "https://www.wroclaw.pl/dla-mieszkanca/wojna-w-ukrainie-wroclaw-pomaga-potrzebujacym-jak-pomagac-madrze",
     "location": "Wrocław, Poland"
@@ -282,7 +282,7 @@
   {
     "title": "Information for Ukranians in Katowice",
     "description": "Help in Katowice for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Contact:  +48 539 696 888 or ukraina@katowice.eu",
     "url": "https://www.katowice.eu/dla-mieszka%C5%84ca/aktualnosci?ItemID=5151&ListID=%7b75169DCB-89EF-46CD-A876-165C1E838909%7d",
     "location": "Katowice, Poland"
@@ -290,7 +290,7 @@
   {
     "title": "Information for Ukranians in Bydgoszcz",
     "description": "Help in Bydgoszcz for Ukrainian citizens",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "Visit Bydgoszcz Trade Fair and Exhibition Center for a collection of essential needs",
     "url": "https://www.bydgoszcz.pl/aktualnosci/tresc/bydgoszcz-pomaga-ukrainie/",
     "location": "Bydgoszcz, Poland"
@@ -298,7 +298,7 @@
   {
     "title": "Crossing into Romania",
     "description": "Useful information for people entering Romania from Ukraine",
-    "keywords": ["general advice", "transportation"],
+    "keywords": ["general-advice", "transportation"],
     "summary": "",
     "url": "https://romania.iom.int/news/useful-information-people-entering-romania-ukraine",
     "location": "Romania"
@@ -306,7 +306,7 @@
   {
     "title": "Information on Entering Romania from Ukraine",
     "description": "Useful information for people entering Romania from Ukraine",
-    "keywords": ["general advice"],
+    "keywords": ["general-advice"],
     "summary": "",
     "url": "https://dopomoha.ro/uk",
     "location": "Romania"
@@ -314,7 +314,7 @@
   {
     "title": "Call Center for Romania",
     "description": "Call Center (on WhatsApp) for information about asylum and information for Ukrainians (English, Russian and Ukrainian)",
-    "keywords": ["general advice", "medical advice"],
+    "keywords": ["general-advice", "medical-advice"],
     "summary": "Contact for general advice: +40 765 861 888. Contact for social and psychological counselling: +40 745 139 747",
     "url": "https://eurodesk.eu/2022/03/04/information-for-ukraine/",
     "location": "Romania"
@@ -322,63 +322,63 @@
   {
     "title": "Immigration To Canada",
     "description": "Immigration information for Canadian citizens, Ukranian nationals and thier families ",
-    "keywords": ["Foreign"],
+    "keywords": ["legal-advice"],
     "summary": "",
     "url": [
       "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html"
     ],
-    "location": ["Canada"]
+    "location": "Canada"
   },
   {
     "title": "Canadians in Ukraine",
     "description": "Contact information about government individuals ",
-    "keywords": ["Foreign"],
+    "keywords": ["legal-advice"],
     "summary": "",
     "url": [
       "https://travel.gc.ca/assistance/emergency-assistance?_ga=2.78080151.2024714464.1647531952-442268738.1647531952"
     ],
-    "location": ["Canada"]
+    "location": "Canada"
   },
   {
     "title": "Germany support Ukrainian",
     "description": "Deutsche Bahn helps refugees to travel from Poland to Germany free of charge with “helpukraine” ticket",
-    "keywords": ["Foreign"],
+    "keywords": ["legal-advice"],
     "summary": "Information is on the website bahn.de/helpukraine and can also be accessed via the customer hotline 0049 (0) 30-2970 in several languages.",
     "url": [
       "https://www.deutschebahn.com/en/presse/press_releases/-helpukraine-ticket-allows-refugees-to-travel-to-any-station-in-Germany-free-of-charge-7315140"
     ],
-    "location": ["Germany"]
+    "location": "Germany"
   },
   {
     "title": "Visa for Germany",
     "description": "Information on entry into Germany from Ukraine",
-    "keywords": ["Foreign"],
+    "keywords": ["legal-advice"],
     "summary": "",
     "url": ["https://kiew.diplo.de/ua-uk/aktuelles/-/2513880?openAccordionId=item-2515814-0-panel"],
-    "location": ["Germany"]
+    "location": "Germany"
   },
   {
     "title": "Asylum Seekers in Germany",
     "description": "Registration as an asylum seeker in Germany",
-    "keywords": ["Foreign"],
+    "keywords": ["legal-advice"],
     "summary": "Explains how to register at a German government office and the requirements needed such as fingerprints, ID etc. ",
     "url": ["https://handbookgermany.de/en/rights-laws/asylum/registration-for-asylumseekers.html"],
-    "location": ["Germany"]
+    "location": "Germany"
   },
   {
     "title": "Asylum Seekers Lawyers in Germany",
     "description": "List of Berlin-based lawyers specialised in asylum",
-    "keywords": ["Foreign", "Legal"],
+    "keywords": ["legal-advice"],
     "summary": "Helps you getting legal advise to higher your chance of becoming a refugee",
     "url": ["https://berlin-hilft.com/rechtsanwaeltinnen-asyl-aufenthaltsrecht/"],
-    "location": ["Germany"]
+    "location": "Germany"
   },
   {
     "title": "Immigration Specialist in Germany ",
     "description": "Contact of Immigration Specialist in Germany",
-    "keywords": ["Foreign", "Legal"],
+    "keywords": ["legal-advice"],
     "summary": " Ina Pilkington (INA@expatsinwonderland.com) and Peer Rogge (PEER@expatsinwonderland.com)",
     "url": ["https://eurodesk.eu/2022/03/04/information-for-ukraine/"],
-    "location": ["Berlin, Germany"]
+    "location": "Berlin, Germany"
   }
 ]
