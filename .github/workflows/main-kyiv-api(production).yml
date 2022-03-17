@@ -8,8 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v2
 
@@ -41,6 +40,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: node-app
+          path: .
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
