@@ -1,0 +1,67 @@
+{
+    "data":[
+            {
+            "title": "Free emergency medical care ",
+            "description": "Free emergency medical care is available at Damiana Hospital",
+            "keywords": ["Medical"],
+            "summary":"Hours: Monday to Friday from 07:30 to 20:00 Saturday from 08.00 to 20.00 Sunday from 08.00 to 16.00",
+            "url": ["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": ["Wałbrzyska 46, 02-739 Warszawa, Poland"]
+        }
+        ,{
+            "title": "Free urgent medical care",
+            "description": "Free medical care in urgent cases for people from Ukraine will also be provided by the network of medical cicadas.",
+            "keywords": ["Medical"],
+            "summary":" To arrange a consultation, you need to call (+48) 22 45 87 007 or write to e-mail.",
+            "url": ["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": [" Rzeczypospolitej 5, Warsaw,Poland"]
+        },{
+            "title": "Free psychological help hours ",
+            "description": "Lux Medical Free psychological help hours",
+            "keywords":["Medical"],
+            "summary":"Telephone:+48 504 123 099: Hours: Tuesday from 12:00 to 14:00 Wednesday about 10: 00-13: 00 Thursday about 12: 00-14: 00 Friday from 12:00 to 14:00 Inpatient visits to a psychologist: Wednesday from 15:00 to 17:00 Thursday from 15:00 to 17:00 Friday from 15:00 to 17:00",
+            "url":"https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html",
+            "location": ["Żwirki i Wigury 61, 02-091 Warszawa, Poland"]
+        },
+        {
+            "title": "Physician Consultation Hours",
+            "description": "Physician Speicalist in internal Medicin",
+            "keywords": ["Medical"],
+            "summary":"Hours:Tuesday from 11:00 to 14:00 Wednesday from 13:00 to 14:00 Thursday from 13:00 to 14:00 Friday from 11:00 to 14:00",
+            "url":["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": ["Żwirki i Wigury 61, 02-091 Warszawa, Poland"]
+        },
+        {
+            "title": "Epilepsy Infoline",
+            "description": "Infoline for Epilepsy",
+            "keywords": ["Medical"],
+            "summary":" The infoline is available at: (+48) 503 924 756. You can also write to e-mail: ukr@fundacjaemergen.com.",
+            "url":["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": ["Poland"]
+        },
+        {
+            "title": "Free Gynecological Care",
+            "description": "Services for individuals who are pregnant or need help, obstetrician-gynecologist",
+            "keywords": ["Medical"],
+            "summary":"You need a document confirming the border crossing and legal stay in Poland from February 24, 2022 in connection with the armed conflict in Ukraine: a certificate of the Polish Border Guard or a stamp of the Polish Border Guard in the passport / other travel document.",
+            "url":["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": ["Karowa 2, 00-315 Warszawa, Poland"]
+        },{
+            "title": "Free COVID antigen tests",
+            "description": "Free covid testing kits outside of the airport premise",
+            "keywords": "list of strings",
+            "summary":"",
+            "url":["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": [" Swobodna 60,Wroctaw,Poland"]
+        },
+       {
+            "title": "Free COVID antigen tests at Airport",
+            "description": "Free covid testing kits near the airport premise",
+            "keywords":["Medical"],
+            "summary":"",
+            "url": ["https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html"],
+            "location": ["Generała Wiktora Thommée 1a, 05-102 Nowy Dwór Mazowiecki, Poland"]
+        }
+    ]
+
+}
