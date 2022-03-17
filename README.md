@@ -33,15 +33,17 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - url: list of strings
 - location: string (just country/city name for now)
 - service-area: "local"|"city"|"region"|"country"|"global"
+- last-updates: time, RFC3339
+- marked-stale-on: time, RFC3339
 
 ### services
 - food
 - transportation
-- short term shelter
-- long term shelter
-- medical advice
-- legal advice
-- general advice
+- short-term-shelter
+- long-term-shelter
+- medical-advice
+- legal-advice
+- general-advice
 
 ### Sources
 - https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html
@@ -88,5 +90,10 @@ TBD
 ```
 
 ```
+PUT /api/v1/stale
+[
+  "uid-1",
+  "uid-2"
+]
 ```
 

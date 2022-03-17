@@ -1,14 +1,15 @@
-var createError = require('http-errors');
-var express = require('express');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+const createError = require('http-errors');
+const express = require('express');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
+const basicAuth = require('express-basic-auth');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-var searchRouter = require('./routes/search');
-var healthRouter = require('./routes/health');
+const indexRouter = require('./routes/index');
+const usersRouter = require('./routes/users');
+const searchRouter = require('./routes/search');
+const healthRouter = require('./routes/health');
 
-var app = express();
+const app = express();
 
 app.use(logger('dev'));
 app.use(express.json());
@@ -16,7 +17,13 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use(
+  '/users',
+  basicAuth({
+    users: { admin: 'supersecret' },
+  }),
+  usersRouter
+);
 app.use('/search', searchRouter);
 app.use('/health', healthRouter);
 
