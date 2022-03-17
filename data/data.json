@@ -380,5 +380,127 @@
     "summary": " Ina Pilkington (INA@expatsinwonderland.com) and Peer Rogge (PEER@expatsinwonderland.com)",
     "url": ["https://eurodesk.eu/2022/03/04/information-for-ukraine/"],
     "location": "Berlin, Germany"
+  },
+  {
+    "title": "Emergency hotline for foreign students looking to leave Ukraine",
+    "description": "The Ministry of Foreign Affairs of Ukraine has established an emergency hotline for foreign students wishing to leave Ukraine because of the Russian armed aggression.",
+    "keywords": ["transportation"],
+    "summary": "Those who require assistance can call, Viber or Telegram the following number: +380 93418 56 84.\nThe questionnaire has also been created for collecting basic information about students and their whereabouts in order to advise them on the means available for their departure: https://cutt.ly/qAi9vBJ.\n",
+    "url": [
+      "https://docs.google.com/forms/d/1T1VnPdYDrx4Z81I2lwm3BLqJUhEJwqe0X7-wWEZefJg/viewform?edit_requested=true",
+      "https://help.unhcr.org/ukraine/",
+      "https://cutt.ly/qAi9vBJ"
+    ],
+    "contact": {
+      "phone": "+380 93418 56 84",
+      "viber": "+380 93418 56 84",
+      "telegram": "+380 93418 56 84"
+    },
+    "location": "Ukraine",
+    "serviceArea": "country"
+  },
+  {
+    "title": "UNHCR: Advice for refugees leaving Ukraine",
+    "description": "",
+    "keywords": ["general-advice"],
+    "summary": "",
+    "url": [
+      "https://help.unhcr.org/ukraine/wp-content/uploads/sites/36/2022/02/Preparedness-key-messages-pillar-1-cleared-CB-002-3.pdf"
+    ],
+    "locations": {
+      "Czech Republic": {
+        "text": "Please see the UNHCR HELP page: https://help.unhcr.org/czech/ and the government webpage page : https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx (hotline number +420 974 801 802)."
+      },
+      "Hungary": {
+        "text": "Please see the UNHCR HELP page for Hungary: https://help.unhcr.org/hungary/ and the page of the Hungarian Helsinki Committee: https://helsinki.hu/Ukraine_Guide_2022_02_25_EN.pdf"
+      },
+      "Moldova": {
+        "text": "Please see the page of the asylum authorities: http://bma.gov.md/ro/content/%D0%B2%D0%B0%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE and this partner page for available services: https://dopomoga.life/. You can contact UNHCR at: hunbu@unhcr.org."
+      },
+      "Poland": {
+        "text": "Please see the UNHCR HELP page for Poland: https://help.unhcr.org/poland/ and the Polish government website for Ukrainians: https://www.gov.pl/web/udsc/ukraina-en (scroll down for additional languages and note their hotline at: +48477217575)."
+      },
+      "Romainia": {
+        "text": "Please see the UNHCR HELP page for Romania: https://help.unhcr.org/romania/ and the website of our partner, the National Council for Refugees: https://www.cnrr.ro/index.php/ro"
+      },
+      "Slovakia": {
+        "text": "Please see the UNHCR HELP page for Romania: https://help.unhcr.org/romania/ and the website of our partner, the National Council for Refugees: https://www.cnrr.ro/index.php/ro"
+      }
+    }
+  },
+  {
+    "title": "Government of Poland: Site for Citizens of Ukraine",
+    "description": "Information from the government of Poland on aid for Ukrainian refugees while in Poland",
+    "keywords": ["legal-advice", "general-advice", "transportation", "medical-advice"],
+    "summary": "Information on cash aid, legal aid, employment, medical care, and transportation while within Poland. Start the procedure by getting a PESEL number.",
+    "url": ["ua.gov.pl"],
+    "contact": {
+      "phone": "+48 47 721 75 75",
+      "email": "ukraina@udsc.gov.pl"
+    },
+    "location": "Poland",
+    "serviceArea": "country",
+    "lastUpdated": "2022-03-17T15:08:00Z"
+  },
+  {
+    "title": "Halina Nieć Legal Aid Center: Information for Ukrainian Citizens",
+    "keywords": ["food", "general advice"],
+    "url": ["https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21"]
+  },
+  {
+    "title": "Information for Ukranians seeking to enter Poland",
+    "description": "General information on going from Ukraine to Poland",
+    "url": "https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21",
+    "links": ["https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21"],
+    "summary": "1. If you are escaping from the armed conflict in Ukraine, you will be admitted to Poland.\n\t\t2. If you do not have an assured place of stay in Poland, go to the nearest reception point.\n\t\t3. At the reception point:\n\t\t\t- you will receive more information about your stay in Poland,\n\t\t\t- we will provide you with temporary accommodation in Poland,\n\t\t\t- you will receive a hot meal, drink, basic medical care and a place to rest.",
+    "keywords": ["general-advice"],
+    "lastUpdated": "2022-03-17T15:39:00Z"
+  },
+  {
+    "title": "Warm meals in Krakow",
+    "keywords": ["food"],
+    "summary": "Meals will be served at ul. Radziwiłłowska 3. You will be able to pick up a warm meal (soup and main course) from 1 p.m.",
+    "location": "Krakow, Poland",
+    "serviceArea": "region",
+    "lastUpdated": "2022-03-17T15:55:00Z"
+  },
+  {
+    "title": "Helpline for Ukrainian citizens - Kraków Voivodeship",
+    "keywords": ["legal-advice"],
+    "contact": {
+      "phone": ["+48 12 210 20 20", "+48 12 210 20 02"],
+      "email": "info.opt@muw.pl"
+    },
+    "url": "https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21",
+    "links": ["https://infoopt.pl/"],
+    "summary": "Contact for foreigners regarding legalization of stay and work in Krakow and the Małopolskie Voivodeship, from Monday to Friday, 8:00 am - 4:00 pm, and a 24-hour hotline: +48 12 210 20 02",
+    "location": "Małopolskie, Poland",
+    "serviceArea": "region",
+    "lastUpdated": "2022-03-17T15:55:00Z"
+  },
+  {
+    "title": "Psychological help for Ukrainian citizens in Krakow",
+    "summary": "People in need of support can benefit from psychological assistance directly at the headquarters of the Center at ul. Radziwiłłowska 8b or by contacting the 24-hour telephone number 12 421 92 82.\nIt is also possible to contact us via instant messaging, please contact us by phone in advance. The center is open 24 hours a day, 7 days a week.",
+    "keywords": ["medical-advice"],
+    "contact": {
+      "phone": "12 421 92 82"
+    },
+    "url": "https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21",
+    "location": "Krakow, Poland",
+    "serviceArea": "region",
+    "lastUpdated": "2022-03-17T16:14:00Z"
+  },
+
+  {
+    "title": "Accomodations in Krakow",
+    "summary": "Call the center on Radziwiłłowska Street or the Crisis Management Center: Tel: +48 722 297 726 and +48 722 297 725",
+    "keywords": ["medical-advice"],
+    "contact": {
+      "phone": ["+48 722 297 726", "+48 722 297 725"]
+    },
+    "url": "https://www.pomocprawna.org/wazna-informacja-dla-obywateli-ukrainy%21",
+    "location": "Krakow, Poland",
+    "serviceArea": "region",
+    "lastUpdated": "2022-03-17T16:14:00Z"
   }
 ]
