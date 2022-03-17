@@ -27,6 +27,9 @@ app.use(
 app.use('/search', searchRouter);
 app.use('/health', healthRouter);
 
+const api = require('./routes/api');
+app.use('/api/v1', api.getRouter());
+
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
   next(createError(404));
