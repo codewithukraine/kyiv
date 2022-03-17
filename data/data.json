@@ -502,5 +502,19 @@
     "location": "Krakow, Poland",
     "serviceArea": "region",
     "lastUpdated": "2022-03-17T16:14:00Z"
+  },
+  {
+    "title": "Help for Ukrainian citizens",
+    "summary": "",
+    "keywords": ["general-advice"],
+    "contact": {
+      "phone": "+48 47 721 75 75"
+    },
+    "url": "https://www.gov.pl/web/udsc/ukraina-en",
+    "links": ["https://www.gov.pl/web/udsc/frequently-asked-questions"],
+    "location": "Poland",
+    "serviceArea": "country",
+    "lastUpdated": "2022-03-17T16:55:00Z",
+    "willUpdate": true
   }
 ]
