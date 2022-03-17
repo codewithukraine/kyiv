@@ -35,3 +35,31 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - medical advice
 - legal advice
 - general advice
+
+### API
+
+GET /api/v1/topics
+[
+  "ukraine refugees",
+  "darfur refugees",
+]
+
+GET /api/v1/keywords
+GET /api/v1/keywords?topic="ukraine refugees"
+[
+  "food",
+  "transportation",
+  "short term shelter",
+  "long term shelter",
+  "medical advice",
+  "legal advice",
+  "general advice"
+]
+
+GET /api/v1/advice?topic=ukraine&keywords=food,transportation&location=kiyv
+[
+  {
+  },
+  {
+  }
+]
