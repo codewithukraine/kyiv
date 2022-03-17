@@ -5,6 +5,7 @@ A data scraping server for serving any helpful links
 - [x] skeleton
 - [ ] ci/cd deploy to cloud; get running url
 - [ ] mvp of data files in json file
+- [ ] /api/v1/ endpoint, authentication
 
 ## tech stack
 List of techs we decided on. If you want to add, please discuss in the channel.
@@ -16,6 +17,7 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 
 ### storage
 - v1 - simple json file
+- v2 - db; possibly airtable
 
 ### schema
 - title: string
