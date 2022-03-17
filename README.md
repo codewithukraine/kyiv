@@ -36,8 +36,13 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - legal advice
 - general advice
 
-### API
+### Sources
+- https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html
+- https://eurodesk.eu/2022/03/04/information-for-ukraine/
+- https://foodtank.com/news/2022/03/organizations-providing-relief-in-ukraine/
 
+
+### API
 ```
 GET /api/v1/topics
 [
