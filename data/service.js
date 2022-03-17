@@ -22,6 +22,12 @@ getAll = () => {
   return dataSet;
 };
 
+getServices = () => {
+  const data = getAll();
+  const topics = [...new Set(data.flatMap((item) => item.keywords))];
+  return topics;
+};
+
 getByQueryParams = (queryParams) => {
   const { location, keyword } = queryParams;
   const dataSet = readDataFile();
@@ -36,5 +42,6 @@ getByQueryParams = (queryParams) => {
 
 module.exports = {
   getAll,
-  getByQueryParams,
+  getResultsByQueryParams,
+  getAllServices,
 };
