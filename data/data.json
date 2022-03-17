@@ -236,5 +236,67 @@
     "summary": "For Urgent Matters, Contact: +48 693 390 502",
     "url": "https://www.pomocprawna.org/pomoc-prawna",
     "location": "Poland"
+  },
+  {
+    "title": "Immigration To Canada",
+    "description": "Immigration information for Canadian citizens, Ukranian nationals and thier families ",
+    "keywords": ["Foreign"],
+    "summary": "",
+    "url": [
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html"
+    ],
+    "location": ["Canada"]
+  },
+  {
+    "title": "Canadians in Ukraine",
+    "description": "Contact information about government individuals ",
+    "keywords": ["Foreign"],
+    "summary": "",
+    "url": [
+      "https://travel.gc.ca/assistance/emergency-assistance?_ga=2.78080151.2024714464.1647531952-442268738.1647531952"
+    ],
+    "location": ["Canada"]
+  },
+  {
+    "title": "Germany support Ukrainian",
+    "description": "Deutsche Bahn helps refugees to travel from Poland to Germany free of charge with “helpukraine” ticket",
+    "keywords": ["Foreign"],
+    "summary": "Information is on the website bahn.de/helpukraine and can also be accessed via the customer hotline 0049 (0) 30-2970 in several languages.",
+    "url": [
+      "https://www.deutschebahn.com/en/presse/press_releases/-helpukraine-ticket-allows-refugees-to-travel-to-any-station-in-Germany-free-of-charge-7315140"
+    ],
+    "location": ["Germany"]
+  },
+  {
+    "title": "Visa for Germany",
+    "description": "Information on entry into Germany from Ukraine",
+    "keywords": ["Foreign"],
+    "summary": "",
+    "url": ["https://kiew.diplo.de/ua-uk/aktuelles/-/2513880?openAccordionId=item-2515814-0-panel"],
+    "location": ["Germany"]
+  },
+  {
+    "title": "Asylum Seekers in Germany",
+    "description": "Registration as an asylum seeker in Germany",
+    "keywords": ["Foreign"],
+    "summary": "Explains how to register at a German government office and the requirements needed such as fingerprints, ID etc. ",
+    "url": ["https://handbookgermany.de/en/rights-laws/asylum/registration-for-asylumseekers.html"],
+    "location": ["Germany"]
+  },
+  {
+    "title": "Asylum Seekers Lawyers in Germany",
+    "description": "List of Berlin-based lawyers specialised in asylum",
+    "keywords": ["Foreign", "Legal"],
+    "summary": "Helps you getting legal advise to higher your chance of becoming a refugee",
+    "url": ["https://berlin-hilft.com/rechtsanwaeltinnen-asyl-aufenthaltsrecht/"],
+    "location": ["Germany"]
+  },
+  {
+    "title": "Immigration Specialist in Germany ",
+    "description": "Contact of Immigration Specialist in Germany",
+    "keywords": ["Foreign", "Legal"],
+    "summary": " Ina Pilkington (INA@expatsinwonderland.com) and Peer Rogge (PEER@expatsinwonderland.com)",
+    "url": ["https://eurodesk.eu/2022/03/04/information-for-ukraine/"],
+    "location": ["Berlin, Germany"]
   }
 ]
