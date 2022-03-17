@@ -22,13 +22,13 @@ getAll = () => {
   return dataSet;
 };
 
-getServices = () => {
+getAllServices = () => {
   const data = getAll();
   const topics = [...new Set(data.flatMap((item) => item.keywords))];
   return topics;
 };
 
-getByQueryParams = (queryParams) => {
+getResultsByQueryParams = (queryParams) => {
   const { location, keyword } = queryParams;
   const dataSet = readDataFile();
 
