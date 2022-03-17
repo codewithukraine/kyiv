@@ -1,0 +1,66 @@
+[
+  {
+    "title": "L'viv food bank warehouse",
+    "description": "33 pallets of food arrived from Toidupank, FEBA (European Food Banks Federation) member in Estonia.",
+    "keywords": ["food"],
+    "summary": "Food providing at this location contain: canned fish and meat, meat, vegetables, powdered milk, soups, flour, oil, cereals, sugar, tea, yeast, and mature cheese.",
+    "url": ["https://www.eurofoodbank.org/feba-supports-ukraine/"],
+    "location": ["L'viv"]
+  },
+  {
+    "title": "Chernivsti food bank warehouse",
+    "description": "33 pallets of food arrived from Toidupank, FEBA (European Food Banks Federation) member in Estonia.",
+    "keywords": ["food"],
+    "summary": "Food providing at this location contain: canned fish and meat, meat, vegetables, powdered milk, soups, flour, oil, cereals, sugar, tea, yeast, and mature cheese.",
+    "url": ["https://www.eurofoodbank.org/feba-supports-ukraine/"],
+    "location": ["Chernivsti"]
+  },
+  {
+    "title": "Caritas Odesa UGCC food bank",
+    "description": "A batch of non-perishable food products (over 950 kg) was sent to Caritas Odessa UGCC on March 16.",
+    "keywords": ["food"],
+    "summary": "Caritas Odesa UGCC - Address: Lermontovs'kyi Ln, 13а, Odesa, Odessa Oblast, Ukraine, 65000",
+    "url": ["https://www.eurofoodbank.org/feba-supports-ukraine/"],
+    "location": ["Odesa, Odessa Oblast"]
+  },
+  {
+    "title": "Chojnice food bank",
+    "description": "The Food Bank in Chojnice operates and distributes food to partner organizations. Contact between 8:00 am and 4:00 pm",
+    "keywords": ["food"],
+    "summary": "Call +52 39 50 571, +52 39 74 902, Open 08.00-16.00 or visit http://chojnice.bankizywnosci.pl/ for more information",
+    "url": ["http://chojnice.bankizywnosci.pl/"],
+    "location": ["Świętopełka 10, 89-620, Chojnice, Poland"]
+  },
+  {
+    "title": "Słupsk food bank",
+    "description": "The Food Bank in Słupsk  operates and distributes food to partner organizations. Contact between 7:00 a.m. and 3:00 p.m.",
+    "keywords": ["food"],
+    "summary": "Call +59 722 08 59, Open 07.00-15.00 or visit http://www.bzslupsk.pl for more information",
+    "url": ["www.bzslupsk.pl"],
+    "location": ["ul. Słoneczna 16 E,76-200, Słupsk, Poland"]
+  },
+  {
+    "title": "Nowe Bielice food bank",
+    "description": "The Food Bank in Nowe Bielice operates and distributes food to partner organizations. Contact between 7:00 a.m. and 3:00 p.m.",
+    "keywords": ["food"],
+    "summary": "Call +94 316 31 17, Open 07.00-15.00 or visit http://www.bz.nowebielice.bankizywnosci.pl/ for more information",
+    "url": ["http://www.bz.nowebielice.bankizywnosci.pl/"],
+    "location": ["ul. Kwiatowa 39, Nowe Bielice, 76-039, Biesiekierz, Poland"]
+  },
+  {
+    "title": "Krakow food bank",
+    "description": "The Food Bank in Krakow operates and distributes food to partner organizations. Contact between 8:00 a.m. and 3:00 p.m.",
+    "keywords": ["food"],
+    "summary": "Call 694 436 435, Open 08.00-15.00 or visit http://www.krakow.bankizywnosci.pl/ for more information",
+    "url": ["http://www.krakow.bankizywnosci.pl/"],
+    "location": ["ul. Klimeckiego 14, pavilion D, 30-705, Kraków, Poland"]
+  },
+  {
+    "title": "Częstochowa food bank",
+    "description": "The Food Bank in Częstochowa operates and distributes food to partner organizations. Contact between 9:00 a.m. and 3:00 p.m.",
+    "keywords": ["food"],
+    "summary": "Call +34 325 50 36, Open 09.00-15.00 or visit http://www.bzczestochowa.pl/ for more information",
+    "url": ["http://www.bzczestochowa.pl/"],
+    "location": ["ul. Żwirki i Wigury 6/14, 42-217, Częstochowa, Poland"]
+  }
+]
