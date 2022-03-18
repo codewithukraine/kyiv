@@ -25,7 +25,10 @@ var server = http.createServer(app);
  * Listen on provided port, on all network interfaces.
  */
 
-server.listen(port, '0.0.0.0');
+server.listen(port, '0.0.0.0', function () {
+  var host = server.address().address;
+  console.log("App listening at http://%s:%s", host, port);
+});
 server.on('error', onError);
 server.on('listening', onListening);
 
