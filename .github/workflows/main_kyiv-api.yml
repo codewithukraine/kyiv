@@ -46,7 +46,18 @@ jobs:
         with:
           name: node-app
           path: .
-
+      - name: Set 
+        uses: azure/appservice-settings@v1
+        with:
+          app-name: 'node-app'
+          app-settings-json: |
+            [
+                {
+                    "name": "TELEGRAM_TOKEN",
+                    "value": "${{ secrets.TELEGRAM_TOKEN }}",
+                    "slotSetting": false
+                }
+            ]
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
