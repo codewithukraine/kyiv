@@ -1,9 +1,11 @@
 const express = require('express');
 const router = express.Router();
+const ipfilter = require('express-ipfilter').IpFilter;
 
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_TOKEN || 'noop';
+const ips = ['149.154.160.0/20', '91.108.4.0/22'];
 
-router.post('/telegram', function (req, res, next) {
+router.post('/telegram', ipfilter(ips, { mode: 'allow' }), function (req, res, next) {
   const chatId = req.body.message.chat.id;
   const message = req.body.message.text;
 
