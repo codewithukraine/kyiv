@@ -1,9 +1,18 @@
 # kyiv
+
 A data scraping server for serving any helpful links
+
+## Quick Start
+
+```
+npm install
+npm start
+```
 
 ## backlog
 
 ### mvp
+
 - [x] skeleton
 - [ ] ci/cd deploy to cloud; get running url
 - [ ] mvp of data files in json file
@@ -13,6 +22,7 @@ A data scraping server for serving any helpful links
 - [ ] /api/v1/advice
 
 ## tech stack
+
 List of techs we decided on. If you want to add, please discuss in the channel.
 
 - node.js
@@ -21,10 +31,12 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 ## data
 
 ### storage
+
 - v1 - simple json file
 - v2 - db; possibly airtable
 
 ### schema
+
 - uid: string
 - title: string
 - description: string
@@ -37,6 +49,7 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - marked-stale-on: time, RFC3339
 
 ### services
+
 - food
 - transportation
 - short-term-shelter
@@ -46,12 +59,13 @@ List of techs we decided on. If you want to add, please discuss in the channel.
 - general-advice
 
 ### Sources
+
 - https://www.medonet.pl/zdrowie,bezkoshtovna-medichna-pdtrimka-dlya-osb-z-ukrani--de-znaiti-dopomogu-,artykul,69290573.html
 - https://eurodesk.eu/2022/03/04/information-for-ukraine/
 - https://foodtank.com/news/2022/03/organizations-providing-relief-in-ukraine/
 
-
 ### API
+
 ```
 GET /api/v1/topics
 [
@@ -96,4 +110,3 @@ PUT /api/v1/stale
   "uid-2"
 ]
 ```
-
