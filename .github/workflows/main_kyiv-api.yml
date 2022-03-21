@@ -46,7 +46,7 @@ jobs:
         with:
           name: node-app
           path: .
-      - name: Set 
+      - name: Set Env Variables
         uses: azure/appservice-settings@v1
         with:
           app-name: 'node-app'
