@@ -8,6 +8,7 @@ const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
 const searchRouter = require('./routes/search');
 const healthRouter = require('./routes/health');
+const webhooks = require('./routes/webhooks');
 
 const app = express();
 
@@ -26,6 +27,7 @@ app.use(
 );
 app.use('/search', searchRouter);
 app.use('/health', healthRouter);
+app.use('/webhooks', webhooks);
 
 const api = require('./routes/api');
 app.use('/api/v1', api.getRouter());
